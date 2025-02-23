@@ -1,4 +1,4 @@
-# Backend Movie Review API
+# ⚙️ Backend Movie Review API
 
 ## 🚗 Overview
 An API specifically designed to work with the movie web app.
